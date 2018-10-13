@@ -1,0 +1,5 @@
+Color,Size,Price
+Red,L,13
+Blue,S,10
+Green,XL,15.5
+Red,M,11
